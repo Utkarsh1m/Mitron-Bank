@@ -39,6 +39,9 @@ Ensure the credit card supports contactless payments and integrates with popular
 
 **Security Features:**
 Implement advanced security features such as fraud alerts, biometric authentication, and virtual card numbers to enhance the safety of transactions. Communicate these security measures to build trust among users.
-
+======================
+Dashboard-
+[Interactive_Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiODVmOGU4NDctNzAwYi00MGI1LWJmMTYtMjFhOGE0ZjdkNDE5IiwidCI6IjM3ZGUyYjc3LTE5MzktNGE0My05ZWMzLWU0ZDk4NGExNTA2NCJ9)
+======================
 linkedin - [https://www.linkedin.com/in/utkarsh-mishra-7a14a514b/](linkedin)
 
